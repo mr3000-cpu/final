@@ -5,7 +5,7 @@
 }
 body{
     background-color: #492468;
-    background-image: url("/images/bkgnd.png");
+    background-image: url("images/bkgnd.png");
     background-repeat: repeat;
 }
 img{
@@ -171,5 +171,6 @@ footer{
   .div.bottom{
     flex-direction: column;
   }
+
 
 }
